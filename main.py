@@ -1,7 +1,5 @@
 import requests
-import schedule
-import time
-from datetime import datetime, timedelta
+from datetime import datetime
 from pytz import timezone
 import os
 
